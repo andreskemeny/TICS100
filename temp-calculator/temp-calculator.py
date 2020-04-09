@@ -31,7 +31,7 @@ def main():
       else:
         break
     except NameError:
-      print("Ingresa 1 si quieres convertir de C a F, 0 si quieres convertir de F a C: ")
+      print("\n Debes ingresar 0, 1 o 2. \n")
       continue
 
   print("Adios!")
