@@ -1,3 +1,8 @@
+"""
+Considere un programa que reciba las variables tipo (int) i, j, k, l, m, n las cuales toman el valor del año(i), mes(j), día(k) 
+en el que nació una persona y año(l), mes(m), día(n) en el que estamos respectivamente. 
+Usted debe retornar al usuario por pantalla la edad en años que tiene.
+"""
 
 def calculateAge(currentYear, currentMonth, currentDay, birthYear, birthMonth, birthDay):
   try:
